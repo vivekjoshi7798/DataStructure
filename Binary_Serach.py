@@ -1,3 +1,4 @@
+# T(n) = T(n/2) + c Time Complexity
 def bimarySerach(arr, key, high, low):
     # There are Two formulae to calculate  Mid element
     # 1. (low+high)//2   example low =4 ang high =6 and answer is 4 but in our sub-array there is no index 4 present
